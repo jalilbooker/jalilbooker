@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Jalil Markel, a Software Engineer 🚀 from Maryland.
+## Hi, I'm Jalil Markel, a Software Engineer 🚀
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jalilbooker)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jalil-booker-markel/)
@@ -15,11 +15,9 @@ Software Engineer at <a href="https://www.gloo.us">Gloo Inc</a><img src="https:/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/jalilbooker/handle-path-oz);
+- 👨🏽‍💻 I’m currently working on Studiolite;
 - 🌱 I’m currently learning Rust and Go; 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/jalilbooker/handle-path-oz) 🤝;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
 - 📫 How to reach me: greatjalilbooker@gmail.com;
 
 **Languages and Tools:** 
@@ -69,7 +67,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 ```javascript
 const me = new Person();
 while(true) {
-  me.work();
+    me.learn();
+    me.work();
+    me.repeat();
 }
 ```
 
