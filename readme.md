@@ -12,6 +12,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- 🌱 I’m Javascript/Typescript expert; 
 - 🌱 I’m currently learning Rust and Go; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: greatjalilbooker@gmail.com;
