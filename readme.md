@@ -5,9 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jalil-booker-markel/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:greatjalilbooker@gmail.com)
 
-<p><em>
-Software Engineer at <a href="https://www.gloo.us">Gloo Inc</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
@@ -15,7 +12,6 @@ Software Engineer at <a href="https://www.gloo.us">Gloo Inc</a><img src="https:/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on Studiolite;
 - 🌱 I’m currently learning Rust and Go; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: greatjalilbooker@gmail.com;
